@@ -7,7 +7,8 @@ CodePath Prework
 ### App Description
 `TODO://` An app that changes text color on button click
 
-<img src="https://drive.google.com/uc?export=download&id=1JsQsKa2iphmhDxJ4c3N0gq75QUUrQCWs" width=200><br>
+![Hello](OlasubomiHello.gif)
+<a href="https://drive.google.com/uc?export=download&id=1JsQsKa2iphmhDxJ4c3N0gq75QUUrQCWs">See the GIF here </a><br>
 
 
 ### Required User Stories
